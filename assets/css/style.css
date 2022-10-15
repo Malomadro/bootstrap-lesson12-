@@ -1,0 +1,21 @@
+body {
+  background-color: lightgray;
+}
+
+.image-logo {
+  height: 50px;
+}
+
+.image-house {
+  height: 30px;
+  margin: auto 0;
+}
+
+.image-footer {
+  height: 50px;
+}
+
+.gender {
+  width: auto;
+  margin-top: 10px;
+}
